@@ -1,0 +1,4 @@
+googletrans
+telebot
+goslate
+pytelegrambotapi
